@@ -1,0 +1,21 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "descr",
+  "main": "script.js",
+  "scripts": {
+    "test": "cammand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repos"
+  },
+  "keywords": [
+    "keyw"
+  ],
+  "author": "roma",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
