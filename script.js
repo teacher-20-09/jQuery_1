@@ -85,5 +85,8 @@ $(document).ready(function(){
 	$(".list1 li:first").css('color','red');
 	$(".list1 li:even").css('color','red');
 
+	$(".list1 li:first").css('color','red');
+	$(".list1 li:even").css('color','red');
+
 
 });
